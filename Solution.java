@@ -8,6 +8,7 @@ public class Solution {
 		// Row 2 has 1 horizontal chain: 0,0,0
 		// Column 1 has 1 vertical chain: 0,0,0,0
 		// Column 4 has 1 vertical chain: 2,2,2
+		//Assumption column size not changing
 		int[][] board = new int[][] { { 0, 3, 3, 3 }, { 0, 0, 0, 2 }, { 0, 1, 4, 2 }, { 0, 9, 8, 2 } };
 		int result = Solution.countChains(board);
         System.out.println("Result:"+result);
