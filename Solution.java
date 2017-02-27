@@ -1,5 +1,15 @@
 //import java.util.Arrays;
 
+/** 
+ * 
+ * 
+ * @author Kalana Sandhana Abeywickrama
+ * repo Url-https://github.com/Kalana86/Wedabima.git
+ * mail-kalanasandhana@gmail.com
+ *
+ */
+
+
 public class Solution {
 
 	public static void main(String[] args) {
